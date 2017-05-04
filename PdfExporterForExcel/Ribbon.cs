@@ -112,6 +112,11 @@ namespace PdfExporterForExcel
             }
         }
 
+        public void OpenHelp(Office.IRibbonControl control)
+        {
+            Process.Start("https://github.com/t-miyake/PdfExporterForOffice");
+        }
+
         #endregion
 
             #region ヘルパー
