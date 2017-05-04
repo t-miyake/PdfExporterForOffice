@@ -61,3 +61,12 @@ Microsoft Office(Word Excel PowerPoint)で簡単にPDFを作成するアドイ�
  1. アクセシビリティ用のドキュメント構造タグは、含める。
  1. PDF/A 準拠は、しない。
  1. フォントの埋め込みが不可能な場合はテキストをビットマップに変換する。
+
+
+### 利用ライブラリ
+
+以下のライブラリを利用しています。
+
+* iTextSharp
+    - [GNU Affero General Public License](http://www.gnu.org/licenses/agpl.html)
+    - https://www.nuget.org/packages/iTextSharp/
