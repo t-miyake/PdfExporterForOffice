@@ -4,6 +4,8 @@ PDF Exporter for Office
 Microsoft Office(Word Excel PowerPoint)で簡単にPDFを作成するアドインです。  
 パスワード付きPDFも作成できます。  
 
+ダウンロードは[releases](https://github.com/t-miyake/PdfExporterForOffice/releases)からできます。
+
 オープンソースかつ無料でご利用いただけますが、無サポート、無保証です。  
 専用のカスタマイズやサポートが必要な場合は、個別にご相談ください。  
 
