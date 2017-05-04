@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabAddIns">
+        <group id="MyAddinGroup" label="PDF Exporter for Word" autoScale="true">
+          <button id="ExPdf" label="Export PDF" size="large" imageMso="PublishToPdfOrEdoc" onAction="ExportPdf"/>
+          <button id="ExPdfWithPass" label="Export PDF (Password)" size="large" imageMso="ProtectDocument" onAction="ExportPdfWithPass"/>
+          <button id="Help" label="Help" size="large" imageMso="Help" onAction="OpenHelp"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
