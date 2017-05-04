@@ -13,7 +13,7 @@ Microsoft Office(Word Excel PowerPoint)で簡単にPDFを作成するアドイ�
 
 ## 使い方 (Word Excel PowerPoint 全て共通)  
 簡単にするために、細かい設定などは全て省いています。  
-(設定内容は事項に列記)
+(設定内容は次項に列記)
 
 ### ・PDF(パスワードなし)の作成  
 1. リボンの「アドイン」内の「PDF Exporter for xxx」にある「Export PDF」ボタン を押します。
